@@ -2,7 +2,7 @@
 
 A modern, lightweight Content Management System built with React that provides a clean and intuitive interface for managing blog posts and internal announcements. This application demonstrates professional dashboard design, CRUD operations, and persistent data storage using localStorage.
 
-![Mini CMS Dashboard](src/assets/cms-hero.jpg)
+
 
 ## 🚀 Features
 
